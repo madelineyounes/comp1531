@@ -1,0 +1,2 @@
+english-words==1.0.3
+PyDictionary==2.0.1
